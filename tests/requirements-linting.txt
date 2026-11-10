@@ -3,7 +3,7 @@ flake8==5.0.4
 flake8-quotes==3.3.1
 hypothesis==6.54.4
 isort==5.10.1
-pyupgrade==2.37.3
+pyupgrade==3.21.2
 mypy==0.971
 pre-commit==2.20.0
 pycodestyle==2.9.1
